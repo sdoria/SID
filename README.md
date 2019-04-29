@@ -4,6 +4,8 @@ Pytorch implementation of "Learning to See in the Dark" [1], a model using a U-n
 
 We obtain results comparable to the original Tensorflow model (PNSR 28.39, SSIM 0.784) on the Sony dataset.
 
+Saved model parameters can be downloaded [here](https://drive.google.com/file/d/11Xvyk0pvrrOdukC9erHSykprkcXeXnmF/view?usp=sharing) 
+
 
 Modifications that were tried and did not improve our results (not published in this repo):
 
